@@ -1,6 +1,6 @@
 #!/bin bash
 #
-# Script Name: FFMpeg_Converter_h264.command
+# Script Name: Bash_Installer.sh
 #
 # Author: Alex Fouquet & Siegfried Oblinger
 # Date : 29.07.2019
