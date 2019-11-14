@@ -5,7 +5,7 @@
 # Author: Alex Fouquet & Siegfried Oblinger
 # Date : 29.07.2019
 #	Version:0.4
-# Description: The following script converts installs files .dmg files from a pre determinated folder
+# Description: The following script installs .dmg files from a pre determinated folder
 # set in the variable my_array / This script should make the installation of Pro Tools plugins faster.
 #
 # Run Information: this script musst be run with sh in terminal
