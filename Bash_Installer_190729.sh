@@ -1,4 +1,4 @@
-#!/bin bash
+#!/bin/bash
 #
 # Script Name: Bash_Installer.sh
 #
